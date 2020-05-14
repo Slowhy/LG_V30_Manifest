@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <project name="packages_apps_PixelLiveWallpaper" path="packages/apps/PixelLiveWallpaper" remote="pixel-gitlab" revision="ten"/>
+ <project name="Slowhy/android_device_lge_joan-common" path="device/lge/joan-common" remote="github" revision="ten" />
+ <project name="Slowhy/android_kernel_lge_msm8998" path="kernel/lge/msm8998" remote="github" revision="ten" />
+ <project name="Slowhy/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="ten" />
+ <project name="Slowhy/android_device_lge_h930" path="device/lge/h930" remote="github" revision="ten" />
+</manifest>
